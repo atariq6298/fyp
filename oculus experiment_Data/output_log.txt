@@ -1,0 +1,27 @@
+Initialize engine version: 5.5.0f3 (38b4efef76f0)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: Intel(R) HD Graphics Family (ID=0xa16)
+    Vendor:   Intel
+    VRAM:     1792 MB
+    Driver:   10.18.10.3383
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\Table Tennis 002\oculus experiment_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\Table Tennis 002\oculus experiment_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\Table Tennis 002\oculus experiment_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\Table Tennis 002\oculus experiment_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\Table Tennis 002\oculus experiment_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\Table Tennis 002\oculus experiment_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\Table Tennis 002\oculus experiment_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\Table Tennis 002\oculus experiment_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: D:\Table Tennis 002\oculus experiment_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading D:\Table Tennis 002\oculus experiment_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+Platform assembly: D:\Table Tennis 002\oculus experiment_Data\Managed\Google.ProtocolBuffers.dll (this message is harmless)
+Loading D:\Table Tennis 002\oculus experiment_Data\Managed\Google.ProtocolBuffers.dll into Unity Child Domain
+- Completed reload, in  0.911 seconds
+Platform assembly: D:\Table Tennis 002\oculus experiment_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\Table Tennis 002\oculus experiment_Data\Managed\System.dll (this message is harmless)
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.

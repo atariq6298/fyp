@@ -1,0 +1,52 @@
+C:\Users\Public\Documents\Unity Projects\Table Tennis 002\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\Public\Documents\Unity Projects\Table Tennis 002\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\Public\Documents\Unity Projects\Table Tennis 002\Temp\bin\Debug\Google.ProtocolBuffers.dll
+C:\Users\Public\Documents\Unity Projects\Table Tennis 002\Temp\bin\Debug\UnityEditor.dll
+C:\Users\Public\Documents\Unity Projects\Table Tennis 002\Temp\bin\Debug\UnityEngine.dll
+C:\Users\Public\Documents\Unity Projects\Table Tennis 002\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\Public\Documents\Unity Projects\Table Tennis 002\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\Public\Documents\Unity Projects\Table Tennis 002\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\Public\Documents\Unity Projects\Table Tennis 002\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\Public\Documents\Unity Projects\Table Tennis 002\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\Public\Documents\Unity Projects\Table Tennis 002\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\Public\Documents\Unity Projects\Table Tennis 002\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Users\Public\Documents\Unity Projects\Table Tennis 002\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\Public\Documents\Unity Projects\Table Tennis 002\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\Public\Documents\Unity Projects\Table Tennis 002\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\Public\Documents\Unity Projects\Table Tennis 002\Temp\bin\Debug\UnityEngine.xml
+C:\Users\Public\Documents\Unity Projects\Table Tennis 002\Temp\bin\Debug\UnityEditor.xml
+C:\Users\Public\Documents\Unity Projects\Table Tennis 002\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\Public\Documents\Unity Projects\Table Tennis 002\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\Public\Documents\Unity Projects\Table Tennis 002\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\Public\Documents\Unity Projects\Table Tennis 002\obj\Debug\Assembly-CSharp.dll
+C:\Users\Public\Documents\Unity Projects\Table Tennis 002\obj\Debug\Assembly-CSharp.pdb
+D:\Table Tennis 002\Temp\bin\Debug\Assembly-CSharp.dll
+D:\Table Tennis 002\Temp\bin\Debug\Assembly-CSharp.pdb
+D:\Table Tennis 002\Temp\bin\Debug\UnityEditor.dll
+D:\Table Tennis 002\Temp\bin\Debug\UnityEngine.Analytics.dll
+D:\Table Tennis 002\Temp\bin\Debug\UnityEngine.dll
+D:\Table Tennis 002\Temp\bin\Debug\UnityEngine.HoloLens.dll
+D:\Table Tennis 002\Temp\bin\Debug\UnityEngine.Networking.dll
+D:\Table Tennis 002\Temp\bin\Debug\UnityEngine.PlaymodeTestsRunner.dll
+D:\Table Tennis 002\Temp\bin\Debug\UnityEngine.UI.dll
+D:\Table Tennis 002\Temp\bin\Debug\UnityEngine.VR.dll
+D:\Table Tennis 002\Temp\bin\Debug\Mono.Cecil.dll
+D:\Table Tennis 002\Temp\bin\Debug\Unity.SerializationLogic.dll
+D:\Table Tennis 002\Temp\bin\Debug\Unity.DataContract.dll
+D:\Table Tennis 002\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+D:\Table Tennis 002\Temp\bin\Debug\Unity.UNetWeaver.dll
+D:\Table Tennis 002\Temp\bin\Debug\Unity.CecilTools.dll
+D:\Table Tennis 002\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+D:\Table Tennis 002\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+D:\Table Tennis 002\Temp\bin\Debug\UnityEngine.xml
+D:\Table Tennis 002\Temp\bin\Debug\UnityEditor.xml
+D:\Table Tennis 002\Temp\bin\Debug\UnityEngine.UI.xml
+D:\Table Tennis 002\Temp\bin\Debug\UnityEngine.Networking.xml
+D:\Table Tennis 002\Temp\bin\Debug\UnityEngine.PlaymodeTestsRunner.xml
+D:\Table Tennis 002\Temp\bin\Debug\UnityEngine.Analytics.xml
+D:\Table Tennis 002\Temp\bin\Debug\UnityEngine.HoloLens.xml
+D:\Table Tennis 002\Temp\bin\Debug\UnityEngine.VR.xml
+D:\Table Tennis 002\obj\Debug\Assembly-CSharp.dll
+D:\Table Tennis 002\obj\Debug\Assembly-CSharp.pdb
+D:\Table Tennis 002\Temp\bin\Debug\Google.ProtocolBuffers.dll
+D:\Table Tennis 002\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
