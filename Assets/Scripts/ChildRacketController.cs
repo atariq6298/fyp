@@ -15,6 +15,7 @@ public class ChildRacketController : NetworkBehaviour {
 		if (phone != null) {
 			gyro = (phone.transform.FindChild ("gyroscope")).transform;
 		}
+
 	}
 	// Update is called once per frame
 	void FixedUpdate(){ 
