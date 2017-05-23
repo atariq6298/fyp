@@ -1,5 +1,7 @@
 using System;
 using System.ComponentModel;
+using System.Net;
+using System.Net.Sockets;
 
 #if ENABLE_UNET
 
@@ -149,13 +151,14 @@ namespace UnityEngine.Networking
 				}
 				ypos += spacing;
 			}
-			if (NetworkServer.active || manager.IsClientConnected())
+			if (NetworkServer.active && !manager.IsClientConnected())
 			{
 				//if (GUI.Button(new Rect(xpos, ypos, 200*3, 20*3), "Stop (X)"))
 				//{
 				//	manager.StopHost();
 				//}
 				//ypos += spacing;
+
 			}
 
 			if (!NetworkServer.active && !manager.IsClientConnected() && noConnection)

@@ -46,6 +46,7 @@ public class phoneController : NetworkBehaviour {
 		}
 	}
 	void Update(){
+		
 		if(Input.touchCount > 0)
 		{
 			bool longTouch = false;

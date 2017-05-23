@@ -16,6 +16,7 @@ public class ball : MonoBehaviour
 	{
 		string name = col.gameObject.name;
 		Debug.Log (name);
+		Debug.Log (state);
 		if (state == 2 & string.Equals (name, "computerHalf")) {
 			state = 4;
 		} else if (state == 4 & string.Equals (name, "playerHalf")) {
@@ -52,7 +53,7 @@ public class ball : MonoBehaviour
 			updateScore ();
 		} else if (state == 8 & !string.Equals (name, "playerHalf")) {
 			resetBall ();
-			computerPoint();
+			playerPoint();
 			updateScore ();
 		}
 	}
@@ -69,6 +70,7 @@ public class ball : MonoBehaviour
 		state = 2;
 	}
 	void computerPoint(){
+		Debug.Log ("computer point");
 		computerPoints++;
 		if (computerPoints == 10) {
 			if (playerPoints == 10) {
@@ -82,6 +84,8 @@ public class ball : MonoBehaviour
 		}
 	}
 	void playerPoint(){
+
+		Debug.Log ("player point");
 		playerPoints++;
 		if (playerPoints == 10) {
 			if (computerPoints == 10) {
